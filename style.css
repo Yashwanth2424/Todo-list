@@ -1,0 +1,128 @@
+.checked {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: line-through;
+}
+.bg-container {
+    background-color: aquamarine;
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 19%;
+}
+.main-heading {
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+}
+.inner-mini-container {
+    margin-top: 45px;
+}
+.sub-heading {
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: left;
+}
+.todo-input {
+    width: 100%;
+    border-width: 2px;
+    border-color: black;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn {
+    margin-top: 11px;
+}
+.list-items-container {
+    margin: 0px;
+    padding: 0px;
+}
+.list-item-container {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+.checkbox {
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-right: 12px;
+    margin-left: 16px;
+}
+.list-inner-container {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 157, 255);
+    width: 100%;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-width: 8px;
+    border-color: red;
+    border-style: solid;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+}
+.label-item-text {
+    font-family: roboto;
+    font-size: 20px;
+    padding: 10px;
+    width: 90%;
+    
+}
+.delete-icon-container {
+    text-align: right;
+    width: 10%;
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 5px;
+}
+.icon {
+    padding: 18px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
